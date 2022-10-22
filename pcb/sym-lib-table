@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name CPU_WDC)(type Legacy)(uri ${KIPRJMOD}/CPU_WDC.lib)(options "")(descr ""))
-)
